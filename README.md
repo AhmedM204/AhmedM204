@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ahmed Mohamed</h1>
+<h1 align="center">Ahmed Mohamed</h1>
 <h3 align="center">A computer science student and software engineer. Interested in about building <strong>secure</strong>, <strong>scalable</strong>, and <strong>efficient</strong> solutions. With experience in backend development and problem-solving, I specialize in creating tools and platforms that optimize performance, <strong>automate workflows</strong>, and <strong>solve real-world problems</strong>.</h3>
 
 
