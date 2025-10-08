@@ -10,7 +10,7 @@
 
 ## 🚀 Projects I Contributed To
 
-### <img src="https://github.com/user-attachments/assets/4f96b56e-f8fb-4c94-85dc-087c14507eed" width="30"/> [Examuiz](https://github.com/AhmedMohammed204/Examuiz)
+### <img src="https://github.com/user-attachments/assets/4f96b56e-f8fb-4c94-85dc-087c14507eed" width="30"/> [Examuiz](https://github.com/AhmedM204/Examuiz)
 > AI-powered educational tool for teachers and students.
 
 - Utilizes **Generative AI** to generate questions and analyze student responses.
@@ -55,15 +55,15 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedmohammed204&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmedM204&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedmohammed204&show_icons=true&locale=en" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmedM204&show_icons=true&locale=en" alt="GitHub Stats"/>
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedmohammed204" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedM204" alt="GitHub Streak"/>
 </p>
 
 ---
