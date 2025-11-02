@@ -1,4 +1,4 @@
-<h1 align="center">Ahmed Mohamed</h1>
+<h1 align="center">Ahmed Bakri</h1>
 <h3 align="center">Computer Science Student & Software Engineer</h3>
 
 <p align="center">
